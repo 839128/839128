@@ -175,7 +175,6 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
 ![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
 ![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
@@ -190,13 +189,10 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
 ![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
-
-![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
 ![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
