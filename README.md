@@ -12,7 +12,7 @@
     <img src="./assets/images/839536.svg" height="520px"/>
   </picture>
 
-  <div>
+  <div>&nbsp;</div>
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
@@ -52,8 +52,6 @@
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
 ![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
-
-  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
