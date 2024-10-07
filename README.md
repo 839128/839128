@@ -152,6 +152,7 @@ Last Updated on 07/10/2024 10:40:07 UTC
 
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
@@ -161,17 +162,16 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![Markdown](http://img.shields.io/badge/-Markdown-green?style=flat-square&logo=markdown&logoColor=black)
-![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![Markdown](http://img.shields.io/badge/-Markdown-green?style=flat-square&logo=markdown&logoColor=black)
 
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
 ![Flask](http://img.shields.io/badge/-Flask-gray?style=flat-square&logo=flask&logoColor=black)
 ![Pytest](http://img.shields.io/badge/-Pytest-green?style=flat-square&logo=pytest)
-![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
 ![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
+![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
@@ -188,7 +188,7 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+![Npm](http://img.shields.io/badge/-Npm-green?style=flat-square&logo=npm&logoColor=white)
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
