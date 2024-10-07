@@ -163,7 +163,7 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![Scala](http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
+![Markdown](http://img.shields.io/badge/-Markdown-green?style=flat-square&logo=markdown&logoColor=black)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
@@ -172,8 +172,8 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
-![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
-![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
+![Flask](http://img.shields.io/badge/-Flask-gray?style=flat-square&logo=flask&logoColor=black)
+![Pytest](http://img.shields.io/badge/-Pytest-green?style=flat-square&logo=pytest)
 ![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
 ![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 
