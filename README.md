@@ -188,7 +188,7 @@ Last Updated on 07/10/2024 10:40:07 UTC
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
-![Npm](http://img.shields.io/badge/-Npm-green?style=flat-square&logo=npm&logoColor=white)
+![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
