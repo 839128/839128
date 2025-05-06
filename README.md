@@ -125,19 +125,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      7 mins              █████████████████████████   99.07 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/05/2025 16:43:33 UTC
+ Last Updated on 06/05/2025 16:58:45 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
