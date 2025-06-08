@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态字符效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Kimi, have a nice day!&center=true&size=27" />
-  </div>
-
   <!-- knock code pictures 程序媛敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/images/839536.svg" />
